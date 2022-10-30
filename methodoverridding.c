@@ -1,5 +1,3 @@
-// You are using Java
-
 import java.util.*;
 import java.lang.Math.*;
 class C
