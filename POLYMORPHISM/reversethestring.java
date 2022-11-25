@@ -31,7 +31,9 @@ class Main
         m.reverse(a,b);
     }
 }
-/*INPUT : VICKY 
-          maha NEKE
-  OUTPUT : maha NEKE
-           VICKY*/
+/*
+INPUT : nandmaha
+        maha NEKE
+OUTPUT : maha NEKE
+         nandmaha
+ */
